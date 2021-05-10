@@ -10,7 +10,7 @@ title:            bH
 tagline:          badHorowitz.
 description:      Value divulged makes a better world. 'Posts, musings and tutorials on things that bring an interest. Hyde theme made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
 url:              https://badhorowitz.github.io
-baseurl:          
+baseurl:          /
 
 author:
   name:           'badhorowitz'
