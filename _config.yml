@@ -6,9 +6,9 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            badHorowitz
-tagline:          'Value divulged makes a better world.'
-description:      'Posts, musings and tutorials on things that bring an interest. Hyde theme made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+title:            bH
+tagline:          badHorowitz.
+description:      Value divulged makes a better world. 'Posts, musings and tutorials on things that bring an interest. Hyde theme made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
 url:              https://badhorowitz.github.io
 baseurl:          
 
