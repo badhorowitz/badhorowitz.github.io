@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Philosphy
+title: Philosophy
 ---
 
 <p class="message">
