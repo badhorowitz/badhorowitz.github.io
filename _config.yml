@@ -10,7 +10,7 @@ title:            bH
 tagline:          badHorowitz.
 description:      Hyde theme made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
 url:              https://badhorowitz.github.io
-baseurl:          /
+baseurl:          
 
 author:
   name:           'badhorowitz'
