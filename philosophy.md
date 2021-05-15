@@ -20,3 +20,5 @@ I'll catch you guys around here soon as the website continues to update!
 
 
 - Jason
+
+## My study tools in a nutshell:
