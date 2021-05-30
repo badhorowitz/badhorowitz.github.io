@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Welcome to Something French!
+tag: French
 ---
 
 <div class="message">
