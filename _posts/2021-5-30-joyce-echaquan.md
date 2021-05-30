@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Le décès de Joyce Echaquan (Summary)
+title: Le décès de Joyce Echaquan (Resumé)
 tag: French Practice
 ---
 
