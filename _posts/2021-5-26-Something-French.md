@@ -14,7 +14,7 @@ N'Hésitez pas de participer à nos activités en cours:
 <li>Présentez-vous dans #présentations!</li> 
 <li>Partagez des nouveaux mots que vous avez rencontrés dans notre petit léxique de nouveaux mots #pldnm. </li> 
 <li>Inspirez-vous d’une de nos #sondages-occasionnels et pratiquez votre écriture dans #réponses-aux-sondages. </li> 
-<li>Programmez un appel vocal, une séance d'échange ou un 'Meet-up' dans un salon vocal avec @ VC Notifications </li> 
+<li>Programmez un appel vocal, une séance d'échange ou un 'Meet-up' dans un salon vocal avec @ VC Notifications </li> <br>
 
 <b>Welcome to Something French!</b> We are a language-learning community dedicated to giving people a place to practice their English/French together. 
 Don’t know where to start? 
@@ -49,8 +49,10 @@ The most common way used to describe one’s French level online is according to
 <li>A1/A2 stands for Early/Late Beginner, respectively. </li>
 <li>B1/B2 stands for Early/Late Intermediate, </li>
 <li>C1/C2 is Early/Late Advanced level. 
-  
-Generally speaking:<br>Intermediate is considered the level at which you start to become more self-sufficient in your language learning. (Reading light news articles, digesting listening content in neutrally-accented French). 
+ <br> 
+Generally speaking:
+
+  Intermediate is considered the level at which you start to become more self-sufficient in your language learning. (Reading light news articles, digesting listening content in neutrally-accented French). 
   
 Advanced level does not mean virtually fluent but does mean that you are confident in consuming native-level input.
   
@@ -100,5 +102,5 @@ Pop Culture: <a title="Imineo" href="https://www.facebook.com/imineoTV/" rel="no
   <h2>Server-made Tutos</h2>
   Something French Video tutorials (because I like to listen to the sound of my own voice): 
   
-  <li>Adding Canadian Multilingual Standard keyboard to your Windows computer.</li><br>
+  <li><a href="https://www.youtube.com/watch?v=XMbMdw_PZhs">Adding Canadian Multilingual Standard keyboard to your Windows computer.</a></li><br>
     - (A little easier to use than European AZERTY) 
