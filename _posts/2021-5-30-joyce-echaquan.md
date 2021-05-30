@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Report: Le décès de Joyce Echaquan
+title: Le décès de Joyce Echaquan (Summary)
 tag: French Practice
 ---
 
