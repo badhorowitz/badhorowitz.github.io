@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: French
 ---
 <ul>
   {% for post in site.posts %}
