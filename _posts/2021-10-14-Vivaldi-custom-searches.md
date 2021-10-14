@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Custom search-engines for Vivaldi
+tag: French
 ---
 
 <li>Wikipedia (fr): https://fr.wikipedia.org/wiki/Special:Search?search=%s </li>
