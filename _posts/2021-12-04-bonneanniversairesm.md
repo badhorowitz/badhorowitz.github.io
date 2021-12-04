@@ -15,5 +15,6 @@ Notez que le Kindle fonctionne comme un lecteur de fichiers avec l'extension .mo
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mkEbXxx9VBI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<br>
 
 N.b. Oubliez-pas d'ajouter ce site à vos favoris afin de pouvoir retourner relire ces instructions au besoin!
