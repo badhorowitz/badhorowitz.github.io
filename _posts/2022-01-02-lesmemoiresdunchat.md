@@ -3,7 +3,7 @@ layout: post
 title: Résumé - 'Les mémoires d'un chat', de Hiro Arikawa
 tag: French
 ---
-![image](https://user-images.githubusercontent.com/83972364/147885042-f7f47e01-ed3a-49e9-8f36-d9538f9a2da4.png)
+![](https://user-images.githubusercontent.com/83972364/147885042-f7f47e01-ed3a-49e9-8f36-d9538f9a2da4.png)
 
 
 Les mémoires d'un chat est un roman originalement écrit en japonais qui porte sur le voyage du protagoniste Satoru et de son chat Nana alors qu'ils sillonnent le Japon pour trouver ce dernier une nouvelle maison. Satoru, qui, pour une raison qui sera dévoilée à la fin du livre, ne peut plus prendre en charge de son chat. Il l'amène donc avec lui dans son monospace et ils prennent la route pour faire visite aux amis de Satoru.
