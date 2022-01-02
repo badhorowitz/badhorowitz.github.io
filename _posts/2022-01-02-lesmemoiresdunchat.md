@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Résumé: 'Les mémoires d'un chat', de Hiro Arikawa
+title: Résumé - 'Les mémoires d'un chat', de Hiro Arikawa
 tag: French
 ---
 
