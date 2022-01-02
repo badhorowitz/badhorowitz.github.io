@@ -19,6 +19,6 @@ Une lecture très intéressante, quoique difficile à mon niveau actuel.
 
 **Vocabulaire**
 
-un road movie - a road-trip film.
-un film routier 
-une maison d'hôte - motel
+* un road movie - a road-trip film.
+* un film routier 
+* une maison d'hôte - motel
