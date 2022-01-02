@@ -12,9 +12,7 @@ Dans cette histoire, écrite dans le style d'un film routier, on rencontre de no
 
 J'ai pas mal aimé l'histoire. Le personnage enjoué de Satoru est l'archétype d'un optimiste faisant penser aux parents de Caillou et cela en fait une combinaison très drôle quand on le voit du point de vue de son chat, un pince-sans-rire qui joue souvent au prétentieux. Bien que j'ais passé le plupart de mon temps à souligner de nouveaux mots pendant les déscriptions de paysages, la beauté du Japon et le splendeur de ses flores et ses faunes y sont évidents.
 
-Une lecture très intéressante, quoique difficile à mon niveau actuel. 
-
-7.2/10.
+Une lecture très intéressante **7.2/10.**
 
 
 **Vocabulaire**
